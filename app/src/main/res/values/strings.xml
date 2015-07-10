@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewPagerProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="selectedDot">#ffabcd</color>
+    <color name="nonselectedDot">#bbabcd</color>
+</resources>
